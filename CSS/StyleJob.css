@@ -69,11 +69,12 @@ h1{
 }
 
 .nkar{
-    margin-left: 400px;
+    width: 90%;
+    padding: 20px;
+    margin:100px auto;
+    display: flex;
+    flex-direction: row;
     justify-content: center;
-    padding: 50px;
-    width: 300px;
-    height: 400px;
     
 }
 
